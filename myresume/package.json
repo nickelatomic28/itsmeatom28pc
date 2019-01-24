@@ -1,0 +1,29 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "\"my resume\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickelatomic28/itsmeatom28pc.git"
+  },
+  "keywords": [
+    "nikhil",
+    "resume"
+  ],
+  "author": "Nikhil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickelatomic28/itsmeatom28pc/issues"
+  },
+  "homepage": "https://github.com/nickelatomic28/itsmeatom28pc#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
