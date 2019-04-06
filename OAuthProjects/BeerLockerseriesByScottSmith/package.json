@@ -1,0 +1,27 @@
+{
+  "name": "beerlockerseriesbyscottsmith",
+  "version": "1.0.0",
+  "description": "http://scottksmith.com/blog/2014/05/02/building-restful-apis-with-node/",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Scott",
+    "Smith",
+    "http://scottksmith.com/blog/2014/05/02/building-restful-apis-with-node/"
+  ],
+  "author": "dnikhil",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.1",
+    "passport": "^0.4.0",
+    "passport-http": "^0.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}

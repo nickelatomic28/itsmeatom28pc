@@ -1,0 +1,29 @@
+{
+  "name": "oauth2.0loginapp",
+  "version": "1.0.0",
+  "description": "Simple Login App using OAuth2.0 unsing passportjs ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OAuth2.0",
+    "Passport.js",
+    "LoginApp"
+  ],
+  "author": "dnikhil",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect-flash": "^0.1.1",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.6",
+    "express-validators": "^1.0.4",
+    "mongoose": "^5.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
