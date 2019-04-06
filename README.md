@@ -1,2 +1,1 @@
-# itsmeatom28pc
-from pc
+*** will update it in sometime ***
